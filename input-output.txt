@@ -1,0 +1,23 @@
+1)
+Enter a string: Muskan#@ gupta
+Vowels: 4
+Consonants: 7
+Digits: 0
+Special Characters: 2
+
+2)Addition:
+6 8
+10 12
+Subtraction:
+-4 -4 
+-4 -4
+Multiplication:
+19 22
+43 50
+3)Enter Name: Muskan
+Enter Account Number: 777 
+Enter Initial Balance: 1500 
+Enter Deposit Amount: 2000
+Deposit successful! Current Balance: 3500.0
+Enter Withdrawal Amount: 3000
+Withdrawal successful! Current Balance: 500.0
